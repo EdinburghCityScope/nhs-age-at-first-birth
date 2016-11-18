@@ -1,0 +1,42 @@
+{
+    "id": "https://github.com/EdinburghCityScope/nhs-age-at-first-birth",
+    "title": "NHS Age of First Time Mothers in Edinburgh",
+    "description": "Number of first time mothers in Edinburgh who are aged 19 and under, or 35 and over. The 3 year aggregate shown is for financial year ending 31 March and refers to the year of discharge from hospital.",
+    "landingPage": "https://github.com/EdinburghCityScope/nhs-age-at-first-birth",
+    "issued": "2016-10-21",
+    "modified": "2016-11-18",
+    "language": [
+        "en"
+    ],
+    "publisher": {
+        "name": "NHS Information Services Division",
+        "mbox": "NSS.isdSCT@nhs.net"
+    },
+    "spatial": "http://www.geonames.org/maps/google_55.95_-3.193.html",
+    "keyword": [
+        "health"
+    ],
+    "distribution": [
+        {
+            "title": "Edinburgh Data Zones 2001",
+            "description": "Data Zones 2001 boundaries in GeoJSON.",
+            "mediaType": "application/vnd.geo+json",
+            "downloadURL": "https://raw.githubusercontent.com/EdinburghCityScope/nhs-age-at-first-birth/master/data/data-zones-2001.json",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+        },
+        {
+            "title": "Edinburgh Data Zones 2011",
+            "description": "Data Zones 2011 boundaries in GeoJSON.",
+            "mediaType": "application/vnd.geo+json",
+            "downloadURL": "https://raw.githubusercontent.com/EdinburghCityScope/nhs-age-at-first-birth/master/data/data-zones-2011.json",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+        },
+        {
+            "title": "Age of First Time Mothers in Edinburgh",
+            "description": "Age of First Time Mothers by Data Zones 2001 as published by NHS Information Services Division. Data taken from http://statistics.gov.scot/data/age-at-first-birth",
+            "mediaType": "text/csv",
+            "downloadURL": "https://raw.githubusercontent.com/EdinburghCityScope/nhs-age-at-first-birth/master/data/age-at-first-birth.csv",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/"
+        }
+    ]
+}
